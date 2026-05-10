@@ -1,9 +1,5 @@
 
----
 
-## ✅ Tu README final mejorado
-
-```markdown
 # 🐳 WordPress en Kubernetes con MySQL
 
 Despliegue de WordPress y MySQL en Kubernetes usando Docker Desktop.
